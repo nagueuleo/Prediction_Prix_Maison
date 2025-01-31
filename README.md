@@ -21,4 +21,4 @@ python3 api.py
 
 
 ## Resources
-- Jeu de donnée: https://github.com/nagueuleo/House_Prediction
+- Jeu de donnée: https://github.com/nagueuleo/Prediction_Prix_Maison
