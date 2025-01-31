@@ -1,0 +1,15 @@
+.e1f1d6gn1  {
+    padding: 1.5rem;
+    border-radius: 0.7rem;
+    text-align: center;
+  }
+  
+  .diagnosis {
+    color: #fff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+  }
+
+  .diagnosis.price {
+    background-color: #3d79e9
+  }

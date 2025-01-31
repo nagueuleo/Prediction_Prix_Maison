@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy==1.25.2
+matplotlib
+Pillow
+plotly
+xgboost==1.7.3
+plost
+scikit-learn==1.2.1
+
